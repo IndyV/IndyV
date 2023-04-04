@@ -19,7 +19,3 @@ I am a software developer with a passion for all things related to web developme
 - DevOps - building and managing modern cloud infrastructure
 - React/Next.js - building performant web applications with a great developer experience
 - JavaScript/TypeScript - building scalable and maintainable web applications
-
-## Stats 📊
-
-![IndyV GitHub stats](https://github-readme-stats.vercel.app/api?username=indyv&show_icons=true&count_private=true&theme=react)
